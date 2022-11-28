@@ -1,0 +1,1 @@
+import{o as e,_ as t,a as s,c as o}from"./index.5b1fcb5a.js";const c={name:"verify-result",components:{},setup(){e(()=>{console.log("test")})},computed:{},watch:{},methods:{}};const n={class:"verify-result"};function a(_,d,r,p,l,u){return s(),o("div",n," result ")}const f=t(c,[["render",a],["__scopeId","data-v-acdce3af"]]);export{f as default};
